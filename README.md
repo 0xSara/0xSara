@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @0xSara
+- 👋 Hi, I’m Sara Wafy
 - 👀 I’m interested in DFIR
-- 🌱 I’m currently learning Digital Forensics & Incident Responce
+- 🌱 I’m currently working a Technical Support Engineer at Valuesys company & learning Digital Forensics & Incident Responce
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
